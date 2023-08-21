@@ -17,7 +17,7 @@
 
 `https://openapi-hari-libur.luthfimeteor.com/api?tahun=2021` => mendapatkan daftar hari libur di tahun 2021
 
-`https://openapi-hari-libur.luthfimeteor.com/api?bulan=8&tahun=2023` => mendapatkan daftar hari libur di bulan 8 tahun 2021
+`https://openapi-hari-libur.luthfimeteor.com/api?bulan=8&tahun=2023` => mendapatkan daftar hari libur di bulan 8 tahun 2023
 
 `https://openapi-hari-libur.luthfimeteor.com/api?bulan=8` => mendapatkan daftar hari libur di bulan 8 tahun sekarang
 
